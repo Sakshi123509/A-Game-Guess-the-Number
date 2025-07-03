@@ -29,12 +29,11 @@ It's a fun way to test your intuition and logic while practicing basic web devel
 - Clean and responsive design
 - Educational and fun!
 
+##  🔗 Live Demo
+🌐 [Click here to play the game](https://sakshi123509.github.io/A-Game-Guess-the-Number/)
+
 ## 📸 Preview
-
-
-
-## 🔗 Live Demo
-🌐 [Click here to play the game](https://sakshi123509.github.io/CODSOFT_Internship_TASK_1/)  
+![Game Preview](Guess_the_number.jpeg)
 
 Made with 💻 by [Sakshi123509](https://github.com/Sakshi123509)
 
