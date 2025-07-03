@@ -33,7 +33,7 @@ It's a fun way to test your intuition and logic while practicing basic web devel
 🌐 [Click here to play the game](https://sakshi123509.github.io/A-Game-Guess-the-Number/)
 
 ## 📸 Preview
-![Game Preview](Guess_the_number.jpeg)
+![Game Preview](Guess_the_Number.jpeg)
 
 Made with 💻 by [Sakshi123509](https://github.com/Sakshi123509)
 
